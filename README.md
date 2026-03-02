@@ -1175,7 +1175,3 @@ npm run lint
 - [ChromaDB](https://www.trychroma.com/) - Vector database
 
 ---
-
-<p align="center">
-  Built with ❤️ for productive Slack workspaces
-</p>
