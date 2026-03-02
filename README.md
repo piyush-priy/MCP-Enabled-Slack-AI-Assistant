@@ -26,8 +26,6 @@
 - [Available Tools](#-available-tools)
 - [Project Structure](#-project-structure)
 - [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -1146,16 +1144,6 @@ Stored 1 memories for user U050Y4SNQF3         # Memory saving
 ```
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit changes: `git commit -m 'Add amazing feature'`
-4. Push to branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
 
 ### Development
 
