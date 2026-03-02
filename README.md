@@ -1,10 +1,13 @@
-# 🤖 Slack AI Assistant v2
+# Slack AI Assistant
 
-> **An intelligent Slack bot powered by RAG (Retrieval Augmented Generation), Long-Term Memory, and MCP (Model Context Protocol) for GitHub & Notion integration.**
+## About
 
-[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
-[![Slack](https://img.shields.io/badge/Slack-Bolt.js-purple.svg)](https://slack.dev/bolt-js/)
+Slack AI Assistant v2 is a TypeScript/Node.js Slack bot designed for real team workflows. It answers questions using **RAG (Retrieval Augmented Generation)** over your Slack message history (ChromaDB + embeddings), remembers user preferences and context across sessions using **mem0 long-term memory**, and can take actions through **MCP (Model Context Protocol)** integrations (e.g., GitHub and Notion).
+
+Key capabilities:
+- Semantic search across indexed Slack messages with relevance scoring and grounded responses
+- Cross-session personalization via automatic memory extraction + retrieval
+- Tool-driven actions via MCP servers (GitHub/Notion) alongside Slack-native utilities (summaries, scheduling, reminders)
 
 ---
 
